@@ -4,4 +4,4 @@ Several projects implementing ArrayList, LinkedList, and Binary Search Tree for 
 Project2: ArrayList\
 Project3: LinkedList\
 Project5: Converter(Recursion)\
-Project6: Binary Search Tree\
+Project6: Binary Search Tree
